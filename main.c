@@ -6,7 +6,7 @@
 /*   By: ybenbrai <ybenbrai@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/06/13 20:46:39 by ybenbrai          #+#    #+#             */
-/*   Updated: 2019/07/05 01:39:36 by ybenbrai         ###   ########.fr       */
+/*   Updated: 2019/06/24 06:06:52 by ybenbrai         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,7 +27,7 @@ int		free_lines(char **lines)
 
 	i = -1;
 	while (++i < 4)
-		free(lines[i]);
+		free(lines[i++]);
 	return (-1);
 }
 
