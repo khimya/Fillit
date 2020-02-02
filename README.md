@@ -4,8 +4,11 @@ Fillit is a project which involves discovering and getting acquainted with a rec
 
 
 
-## Note
-Special thanks to my partner at this project Mr https://github.com/0x0584 .
+## Contibutors 
+
+* [Khimya](https://github.com/khimya)
+
+* [0x0584](https://github.com/0x0584)
 
 
 ## Contributing
